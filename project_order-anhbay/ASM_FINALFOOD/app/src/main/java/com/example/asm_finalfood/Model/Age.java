@@ -6,4 +6,10 @@ public class Age {
     int matuoi;
 
 
+    String quequan;
+
+   
+
+
+
 }
