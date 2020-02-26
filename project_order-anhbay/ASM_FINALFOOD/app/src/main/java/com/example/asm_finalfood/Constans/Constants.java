@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class Constants {
 
 
-    public static final String Localhost     ="10.88.54.41";
+    public static final String Localhost     ="10.88.54.38";
     public static final String BASE_URL      ="http://"+Localhost+"";
     private static final String BASE_FOOD     ="http://"+Localhost+"/asm_rofood/product/";
     public static Retrofit retrofit;
