@@ -4,5 +4,6 @@ public class Age {
     String name;
     String sdt;
     int matuoi;
+    int sonha;
 
 }
