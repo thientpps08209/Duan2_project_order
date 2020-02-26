@@ -4,6 +4,6 @@ public class Age {
     String name;
     String sdt;
     int matuoi;
-
+    String quequan;
 
 }
